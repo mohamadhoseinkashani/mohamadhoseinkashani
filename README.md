@@ -25,4 +25,4 @@ Available for backend roles and project-based work.
 
 - GitHub: [@mohamadhoseinkashani](https://github.com/mohamadhoseinkashani)
 - LinkedIn: [hosein-kashani](https://www.linkedin.com/in/hosein-kashani-20b110196)
-- Boot.dev: [hosseinkashani](https://www.boot.dev/u/hosseinkashani)
+  
