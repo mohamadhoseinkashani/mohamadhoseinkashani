@@ -4,7 +4,7 @@
 
 I build backend projects in Python, with a focus on clean, well-structured code and tested, working software. My work includes an AI coding agent powered by LLM function calling and a fully playable game engine built with object-oriented design.
 
-Backend development through [Boot.dev](https://www.boot.dev/u/hosseinkashani) — 505 lessons completed, Top 10.5% on the leaderboard.
+Backend development through [Boot.dev](https://www.boot.dev/u/hosseinkashani) — Level 55 Scholar · 512 lessons solved · 138,407 XP · Top 9.7% on the leaderboard.
 
 Available for backend roles and project-based work.
 
